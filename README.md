@@ -1,3 +1,3 @@
 # JAVA-exercicios
-exercicios de java
+exercicios de java.
 Alguns exercicios de JAVA que venho fazendo para praticar
